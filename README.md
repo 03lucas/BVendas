@@ -1,6 +1,6 @@
 # BVendas
 
-Site para visualização de vendas com gráficos e tabela
+Site para visualização de vendas com gráficos e tabela.
 
 # Tech Stack
 Frontend: React.js
@@ -8,30 +8,35 @@ Backend: Spring Boot com API REST (Java 21)
 Database: PostgreSQL
 Testar API: Postman
 
-# Landing Page
-![alt text](https://github.com/03lucas/Bmovie/blob/main/showcases/.png?raw=true)
+# Home Page
+![alt text](https://github.com/03lucas/BVendas/blob/main/showcases/HomePage.png?raw=true)
 
 <br><br>
 
-# 
-![alt text](https://github.com/03lucas/Bmovie/blob/main/showcases/.png?raw=true)
+# Dashboard
+![alt text](https://github.com/03lucas/BVendas/blob/main/showcases/Dashboard.png?raw=true)
 
 <br><br>
 
-# 
-![alt text](https://github.com/03lucas/Bmovie/blob/main/showcases/.png?raw=true)
+# All sales
+![alt text](https://github.com/03lucas/BVendas/blob/main/showcases/AllSales.png?raw=true)
 
 <br><br>
 
-# 
-![alt text](https://github.com/03lucas/Bmovie/blob/main/showcases/.png?raw=true)
+# All sellers Postman
+![alt text](https://github.com/03lucas/BVendas/blob/main/showcases/AllSellers.png?raw=true)
 
-<br>
+<br><br>
 
-# 
-![alt text](https://github.com/03lucas/Bmovie/blob/main/showcases/.png?raw=true)
+# Amount of sales by seller
+![alt text](https://github.com/03lucas/BVendas/blob/main/showcases/AmountBySeller.png?raw=true)
 
-<br>
+<br><br>
 
-# 
-![alt text](https://github.com/03lucas/Bmovie/blob/main/showcases/.png?raw=true)
+# Sales Pagination
+![alt text](https://github.com/03lucas/BVendas/blob/main/showcases/SalesPagination.png?raw=true)
+
+<br><br>
+
+# Sucess by seller
+![alt text](https://github.com/03lucas/BVendas/blob/main/showcases/SucessBySeller.png?raw=true)
